@@ -1,4 +1,6 @@
-# Meteor Up X (Stable Version)
+# Meteor Up X (Stable Version) (Customized by @afuggini)
+
+**This version uses a [custom docker image](https://github.com/afuggini/meteord) that installs PhantomJS 2.1.1 instead of 1.9.8.**
 
 > The latest development version of mup is https://github.com/kadirahq/meteor-up.
 
